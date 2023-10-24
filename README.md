@@ -1,6 +1,7 @@
 # Email-Generator-GPT
 
-This repo serves as a template for how to make your own LangChain apps on Streamlit.
+This Web app able to convert any text to business emails also available format is American and British. here has been used Streamlit, LLMs and OpenAI API to work efficiently with ChatGPT promote.
+
 
 ![](demo.png)
 
