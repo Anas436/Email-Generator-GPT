@@ -5,6 +5,8 @@ This Web app able to convert any text to business emails also available format i
 
 ![](demo.png)
 
+![](https://github.com/Anas436/Email-Generator-GPT/blob/main/demo_video.mp4)
+
 ## Deploy
 
 
